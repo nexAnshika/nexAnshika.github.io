@@ -1,0 +1,13 @@
+body{
+	background-image: url(anshu.gif);
+	height: 100%;
+	width: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+li a{
+	display: inline-flex;
+	float: right;
+	border: #fff;
+
+}
